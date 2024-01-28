@@ -1,0 +1,89 @@
+what about simulation???
+
+
+## Why robotics as a career?
+
+Don't be mistaken! R&D in robotics definitely requires solid and specialized technical background (e.g., representation of 3D rigid-body motion, ...).
+In fact, it is an amazing place to utilize your creative mind for tackling many challenges in our society.
+
+Relevant to the society! real-world problems, constantly in need for solutions
+For a long time, many people like me could only associate real-world robotics 
+with those sturdy industrial robots repeatedly picking and placing workpieces in factories.
+Nowadays, robots are gaining traction beyond manufacturing:
+self-driving cars, 
+floor cleaning robots, 
+Amazon's warehouse robots, 
+just to name a few.
+Many of the tasks fulfilled by these robots are dull, dirty, and/or dangerous,
+
+<iframe width="560" height="315" 
+	src="https://www.youtube.com/embed/pX7baMWNnxg?si=dAXAostQnI9HRoR2" 
+	title="Robots in the Workplace: Rodney Brooks at TEDxPiscataquaRiver" 
+	frameborder="0" 
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+	allowfullscreen
+/>
+Indeed, robots are taking away some of the mundane jobs used to be performed by human.
+On the other hand, robots have also transformed the roles of many existing human worker,
+for example, into "teaching" the robots (specifically, those kinds of robots are called Collaborative Robots, aka cobots) to perform diverse tasks.
+
+Meanwhile, more job opportunities in robotics emerge, especially in R&D, 
+to expand and enhance robots' capabilities.
+Wondering what roboticists are researching on? Glad you asked, and the talk by Dr. Jeremy Wyatt explains the three waves of (mainstream) robotics quite well. 
+Have a look.
+<iframe width="560" height="315" 
+	src="https://www.youtube.com/embed/qDVokm_XS3I?si=Q3W-ij8Papv9Ku-4" 
+	title="The three waves of robotics by Jeremy Wyatt " 
+	frameborder="0" 
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+	allowfullscreen
+/>
+In fact, I didn't know this video only recently, ... 
+Personal experience resonate even better, 
+explore 
+Of course, with personal experience,  
+Personal touch!
+
+
+<!-- 
+	https://www.youtube.com/embed/qDVokm_XS3I?si=Q3W-ij8Papv9Ku-4
+		The three waves of robotics | Jeremy Wyatt 
+		1. first wave: structured manipulation
+		2. 2nd wave: probabilistic AI in mobile robots (navigation)
+		3. 3rd wave: unstructured manipulation
+	https://www.youtube.com/embed/N1x8KV4OIkI?si=D2n1rRdKVHs67fqs
+		Robots that work alongside humans - a peek into the future
+		got some happy comments but seems not very clear what he's trying to say...
+		Daniel Fitzgerald, quite nice
+
+-->
+
+personal fulfillment:
+challenging,
+interdisciplinary
+
+lots of smart collegue 
+
+# My research areas
+
+the funny DARPA challenges
+
+unlock the potential
+human-level manipulation!
+
+What's next
+* the use of tactile sensing
+* intelligent 
+
+
+
+structured environment, ..., ... autonomous driving, ...
+
+Currently, I am pursuing a career in robotics.
+
+
+
+Bachelor degree in mechanical engineering
+
+M.Sc degree in "Commercial Vehicle Technology". 
+More precisely, my specializations are mechatronics and robotics.
